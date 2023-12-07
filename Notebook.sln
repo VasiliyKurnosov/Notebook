@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cryptography", "Cryptography\Cryptography.csproj", "{4B03C73F-6732-412A-8720-65FDD3EB59A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{8688C9D9-149C-4D71-BDE6-4257C0C98D63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{C5DED4C2-A0A2-4A71-AB0F-C73ACC84AA3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B03C73F-6732-412A-8720-65FDD3EB59A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B03C73F-6732-412A-8720-65FDD3EB59A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B03C73F-6732-412A-8720-65FDD3EB59A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B03C73F-6732-412A-8720-65FDD3EB59A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8688C9D9-149C-4D71-BDE6-4257C0C98D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8688C9D9-149C-4D71-BDE6-4257C0C98D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8688C9D9-149C-4D71-BDE6-4257C0C98D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8688C9D9-149C-4D71-BDE6-4257C0C98D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DED4C2-A0A2-4A71-AB0F-C73ACC84AA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DED4C2-A0A2-4A71-AB0F-C73ACC84AA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DED4C2-A0A2-4A71-AB0F-C73ACC84AA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DED4C2-A0A2-4A71-AB0F-C73ACC84AA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FCAE2EC-D01C-455A-A18D-05543F41C0ED}
+	EndGlobalSection
+EndGlobal
